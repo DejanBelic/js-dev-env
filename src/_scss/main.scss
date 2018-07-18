@@ -1,0 +1,6 @@
+@import 'base/typography';
+$color-orange: #f98a09;
+.main {
+    background: $color-orange;
+    display: flex;
+}
